@@ -1,3 +1,6 @@
-# Django softwork
+# softwork
 
-This is a boilerplate for a scalable Django project. To use it, just download the source code and globally replace "softwork" with a meaningful project name. Then start building your apps.
+softwork.com is an online service platform with the sole purpose of: 
+1.	Connecting clients to service providers
+2.	Ranking repairs based on customer score
+3.	Checkmating technicians to ensure quality service is provided to the client.
